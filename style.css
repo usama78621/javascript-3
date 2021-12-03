@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(204, 190, 190);
+}
+.title{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+.title h2{
+    color: blue;
+}
+.user-icon{
+    text-align: center;
+    padding: 30px 50px;
+}
+.contanier{
+    background-color: rgb(253, 244, 244);
+    
+}
+#person-img{
+    background-color:black;
+    width: 200px;
+    border-radius: 50%; 
+}
+.button-container{
+    text-align: center;
+    position: relative;
+    bottom: 30px;
+
+}
+.cli{
+    text-align: center;
+    position: relative;
+    bottom: 20px;
+}
